@@ -1,0 +1,51 @@
+/* Write your CSS code here */
+.para {
+  color: red;
+  padding: 0px;
+}
+.main {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.input {
+  margin-top: 10px;
+  height: 35px;
+}
+.label {
+  font-weight: bold;
+}
+.suc {
+  height: 55px;
+  margin-bottom: 20px;
+}
+.success {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.input1 {
+  border-color: red;
+  margin-top: 10px;
+  height: 35px;
+}
+.submit {
+  border-right-color: blue;
+  background-color: orange;
+  align-self: center;
+  cursor: pointer;
+}
+.to {
+  background-color: orange;
+  color: white;
+}
